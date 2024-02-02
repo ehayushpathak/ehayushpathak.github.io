@@ -7,7 +7,7 @@ tags: [AWS, Security, S3]
 
 ![Intro](/images/PwnedLabs/S3_versioning/0.png)
 
-Hey everyone! It's time for another AWS Security challenge write-up. From the title, we can deduce that [this challenge](https://pwnedlabs.io/labs/access-secrets-with-s3-bucket-versioning) is about S3 bucket versioning. When we begin the lab, we are provided by an IP address as an entry point so let's start with that.\
+Hey everyone! It's time for another AWS Security challenge write-up. From the title, we can deduce that [this challenge](https://pwnedlabs.io/labs/access-secrets-with-s3-bucket-versioning) is about S3 bucket versioning. When we begin the lab, we are provided by an IP address as an entry point so let's start with that.
 
 A Nmap scan reveals port 80 is open, so let's explore what's running there. 
 
