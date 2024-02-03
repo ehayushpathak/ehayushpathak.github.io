@@ -97,7 +97,7 @@ This is a collection of resources to learn and practice AWS Security - both offe
 - [AWS re:Invent](https://www.youtube.com/@AWSEventsChannel)
 - [What I Wish I Knew Before Pentesting AWS Environments](https://www.youtube.com/watch?v=jq8SAF6ibSc)
 - [Securing AWS Discover Cloud Vulnerabilities via Pentesting](https://www.youtube.com/watch?v=fg_hey18tio&t=1471s)
-- [Cloud Pentest Apocalypse | Beau Bullock](https://www.youtube.com/playlist?list=PLqz80p7f6dFsJvL1cIld7mLGZfR-govMm)
+- [Cloud Pentest Apocalypse Beau Bullock](https://www.youtube.com/playlist?list=PLqz80p7f6dFsJvL1cIld7mLGZfR-govMm)
 - [Cognito Attacks - Payatu Webinar](https://youtu.be/MSVh4rLEMyU?si=ypm4eyT3byOGeWhQ)
 - [IAM Privilege Escalation Labs - CYBR(FREE)](https://cybr.com/courses/iam-privilege-escalation-labs/)
 - [AWS Security Courses - CYBR (FREE)](https://cybr.com/courses/?search=&filter-categories=cloud-security)
