@@ -63,6 +63,8 @@ This is a collection of resources to learn and practice AWS Security - both offe
 - [Security Pillar AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
 - [AWS Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/?apg-all-cards.sort-by=item.additionalFields.sortDate&apg-all-cards.sort-order=desc&awsf.apg-new-filter=*all&awsf.apg-content-type-filter=*all&awsf.apg-code-filter=*all&awsf.apg-category-filter=categories%23security-identity-compliance&awsf.apg-rtype-filter=*all&awsf.apg-isv-filter=*all&awsf.apg-product-filter=*all&awsf.apg-env-filter=*all)
 - [Cloud Security - Sysdig](https://sysdig.com/topic/cloud-security/)
+- [Cloud Threat Landscape - Wiz](https://threats.wiz.io/all-techniques)
+- [https://securitylabs.datadoghq.com/](https://securitylabs.datadoghq.com/)
 
 ## Labs and challenges
 
