@@ -2,7 +2,7 @@
 title: "Pwned Labs - AWS S3 Enumeration Basics"
 date: 2024-01-30
 categories: [AWS, Cloud, Security]
-tags: [AWS, Security, S3]
+tags: [AWS, Security, S3, PwnedLabs]
 ---
 
 ![Intro](/images/PwnedLabs/S3_enumeration/1.png)

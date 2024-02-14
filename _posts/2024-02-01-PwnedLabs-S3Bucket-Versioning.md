@@ -2,7 +2,7 @@
 title: "Pwned Labs - Access Secrets with S3 Bucket Versioning"
 date: 2024-02-01
 categories: [AWS, Cloud, Security]
-tags: [AWS, Security, S3]
+tags: [AWS, Security, S3, PwnedLabs]
 ---
 
 ![Intro](/images/PwnedLabs/S3_versioning/0.png)

@@ -2,7 +2,7 @@
 title: "Pwned Labs - SSRF to Pwned"
 date: 2024-02-04
 categories: [AWS, Cloud, Security]
-tags: [AWS, Security, EC2]
+tags: [AWS, Security, EC2, PwnedLabs]
 ---
 
 ![Intro](/images/PwnedLabs/SSRF/8.png)
