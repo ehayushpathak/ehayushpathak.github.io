@@ -45,7 +45,6 @@ This is a collection of resources to learn and practice AWS Security - both offe
 - [Introduction to Offensive Operations in AWS](https://www.primeharbor.com/blog/pentest/Offensive_Operations_in_AWS-Apr2023.pdf)
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - [https://www.secwiki.cloud/](https://www.secwiki.cloud/)
-- [cloudsecwiki](https://cloudsecwiki.com/)
 - [Internal All The Things - Swissky](https://swisskyrepo.github.io/InternalAllTheThings/cloud/aws/AWS%20Pentest/)
 - [TrendMicro Knowledge Base](https://www.trendmicro.com/cloudoneconformity-staging/knowledge-base/aws/)
 - [Last week in AWS](https://www.lastweekinaws.com/blog/)
@@ -65,6 +64,7 @@ This is a collection of resources to learn and practice AWS Security - both offe
 - [Cloud Security - Sysdig](https://sysdig.com/topic/cloud-security/)
 - [Cloud Threat Landscape - Wiz](https://threats.wiz.io/all-techniques)
 - [https://securitylabs.datadoghq.com/](https://securitylabs.datadoghq.com/)
+- [Permiso Blog](https://permiso.io/)
 
 ## Labs and challenges
 
@@ -99,9 +99,16 @@ This is a collection of resources to learn and practice AWS Security - both offe
 - [Securing AWS Discover Cloud Vulnerabilities via Pentesting](https://www.youtube.com/watch?v=fg_hey18tio&t=1471s)
 - [Cloud Pentest Apocalypse Beau Bullock](https://www.youtube.com/playlist?list=PLqz80p7f6dFsJvL1cIld7mLGZfR-govMm)
 - [Cognito Attacks - Payatu Webinar](https://youtu.be/MSVh4rLEMyU?si=ypm4eyT3byOGeWhQ)
-- [IAM Privilege Escalation Labs - CYBR(FREE)](https://cybr.com/courses/iam-privilege-escalation-labs/)
-- [AWS Security Courses - CYBR (FREE)](https://cybr.com/courses/?search=&filter-categories=cloud-security)
+- [IAM Privilege Escalation Labs - CYBR](https://cybr.com/courses/iam-privilege-escalation-labs/)
+- [AWS Security Courses - CYBR](https://cybr.com/courses/?search=&filter-categories=cloud-security)
 - [Cloud Red Teaming](https://speakerdeck.com/tweekfawkes/cloud-red-teaming-aws-initial-access-and-privilege-escalation)
 - [Get Outta My Host and into my cloud - Chris Farris](https://www.primeharbor.com/blog/pentest/GetOuttaMyHost.pdf)
 - [Welcome to the Jungle: Pentesting AWS](https://www.slideshare.net/MichaelFelch/welcome-to-the-jungle-pentesting-aws)
 - [Talks and Workshops - Nick Jones](https://www.nojones.net/talks-and-workshops)
+
+## Incident Response / Case Studies
+
+- [The curious case of DangerDev@protonmail.me](https://www.invictus-ir.com/news/the-curious-case-of-dangerdev-protonmail-me)
+- [UNMASKING GUI-VIL: FINANCIALLY MOTIVATED CLOUD THREAT ACTOR](https://permiso.io/blog/s/unmasking-guivil-new-cloud-threat-actor/)
+- [LUCR-3: SCATTERED SPIDER GETTING SAAS-Y IN THE CLOUD](https://permiso.io/blog/lucr-3-scattered-spider-getting-saas-y-in-the-cloud)
+- [Ransomware in the cloud](https://www.invictus-ir.com/news/ransomware-in-the-cloud)
