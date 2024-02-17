@@ -2,7 +2,7 @@
 title: "IAM Vulnerable Walkthrough"
 date: 2024-02-17
 categories: [AWS, Cloud, Security]
-tags: [AWS, Security, IAM]
+tags: [AWS, Security, IAM, Privilege Esclation]
 ---
 
 Hey readers! Hope you all are having an amazing day. IAM Privilege Esclatation is an interesting topic, I learned about this first time when I was doing a course and labs from [Attack Defense](https://attackdefense.pentesteracademy.com/listingnoauth?labtype=cloud-services&subtype=cloud-services-amazon-iam). I also read some interesting blogs on IAM Privilege Esclation from [RhinoSecurity](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/), another research from [BishopFox](https://bishopfox.com/blog/privilege-escalation-in-aws) and, [this blog post from Hackingthe.cloud](https://hackingthe.cloud/aws/exploitation/iam_privilege_escalation/).\
